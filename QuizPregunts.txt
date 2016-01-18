@@ -1,0 +1,79 @@
+!NOTE!: There are three Cs, two Bs, and only one A because it is not possible for the user to do more than one A or more than two Bs because they start off with a C
+
+ENDOCRINE QUESTIONS
+
+EndoC
+What other body system are the testes part of?
+
+EndoB
+Which of these organs regulates calcium levels?
+
+EndoA
+<html><p>While hiking, you came across an angry bear and wrestled with it.<br>Explain why you had the sudden urge to fight.</p></html>
+
+RESPIRATORY QUESTIONS
+
+RespC
+What organ is known as the 'voicebox'?
+
+RespB
+<html><p>Which of these organs is a muscle that<br>helps while breathing?</p></html>
+
+RespA
+<html><p>At a crime scene, one man is shot in his left lung,<br>while another is shot in the diaphragm. The second one is killed, but the other one survives.<br>Explain why.</p></html>
+
+DIGESTIVE QUESTIONS
+
+DigC
+Why doesn't the stomach get burned from the acid?
+
+DigB
+Which of these organs is the liver?
+
+DigA
+<html><p>Your friend is having constipation.<br>Explain to him why it is happening.</p></html>
+
+FEMALE REPRODUCTIVE QUESTIONS
+
+FemReproC
+<html><p>Through which organ are unfertilized eggs<br>first released?</html></p>
+
+FemReproB
+<html><p>Where does the embryo grow into a <br>baby during pregnancy?</html></p>
+
+FemReproA
+<html><p>Explain the process of how an egg is<br>fertilized and becomes a baby.</p></html>
+
+MALE REPRODUCTIVE QUESTIONS
+
+MaleReproC
+<html><p>What organ is mainly responsible for <br>delivering male gametes to the female body?</p></html>
+
+MaleReproB
+Which of these organs creates sperm cells?
+
+MaleReproA
+<html><p>You're a doctor, and one of your patients asks why he feels<br>his scrotum shrink up sometimes. Explain to him why it happens.</p></html>
+
+
+EXCRETORY QUESTIONS
+
+UrinC
+Near what organ(s) can the sweat glands be found?
+
+UrinB
+Which of these organs are the kidneys?
+
+UrinA
+<html><p>Your friend asks you, "How come we can 'hold in' our urine?"<br>Explain to her how urine is produced and stored.</p></html>
+
+CIRCULATORY QUESTIONS
+
+CircC
+Where do arteries take blood to?
+
+CircB
+<html><p>Which one of these organs is the <br>largest and main blood vessel?</p></html>
+
+CircA
+<html><p>Your grandmother recently got a heart attack, but survived.<br>She wants to know why it happened and what she can do to prevent it.</p></html>

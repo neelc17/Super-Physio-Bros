@@ -1,0 +1,145 @@
+EndoStart
+<html><p>The <b>endocrine system</b> is the systems of glands that produce hormones that regulate metabolism, growth and development, sexual function, and mood.</p></html>
+
+RespStart
+<html><p>The <b>respiratory system</b> is made up of the organs that help you to breathe. Breathing is the way your body gets oxygen from the air and expels carbon dioxide.</p></html>
+
+DigStart
+<html><p>The <b>digestive system</b> is a series of organs that processes food that you eat. It breaks down and digests food into smaller molecules so the body can circulate nutrients. It excretes any indigestible waste.</p></html>
+
+MaleReproStart
+<html><p>The <b>male reproductive system</b> is made up of sex organs that are a part of the human reproductive process. It's main functions are to produce and discharge sperm, and to produce male sex hormones such as testosterone.</p></html>
+
+FemReproStart
+<html><p>The <b>female reproductive system</b> is made up of sex organs that are a part of the human reproductive process. It's main functions are to produce egg sex cells, produce female sex hormones such as estrogen, and to carry and birth the child.</p></html>
+
+UrinStart
+<html><p>The <b>excretory system</b> is the system that removes excess and toxic materials from your bodily fluids. A big part of this system is the urinary system, which excretes excess water and other toxic material in the form of urine.</p></html>
+
+CircStart
+<html><p>The <b>circulatory system</b> is a system of vessels and other organs that circulate blood throughout your body. The heart is the muscular organ that pumps the blood through the vessels.</p></html>
+
+
+START ENDO ORGANS
+
+ThymusGlandsStart
+<html><p>The <b>thymus glands</b> are endocrine organs located in the neck area. They produce thymosin to stimulate T-Cell maturation. Once stimulated, the T-Cells mature on the thymus tissue.</p></html>
+
+ThyroidGlandStart
+<html><p>The <b>thyroid gland</b> is an endocrine organ located in front of the trachea in the neck area. It produces thyroxine and calcitonin to regulate metabolism and calcium levels</p></html>
+
+Testes is in repro organs
+
+Ovaries is in repro organs
+
+AdrenalGlandsStart
+<html><p>The <b>adrenal glands</b> are endorcine organs located on top of the kidneys. They produce adrenaline, which is a hormone that increases heart rate and spikes blood sugar to prepare the body to "fight or flight" in a stressful situation.</p></html>
+
+PituitaryGlandStart
+<html><p>The <b>pituitary gland</b> is a pea-sized endocrine organ located below the base of the brain. It is very important, and it is referred to as the "master gland" because it produces hormones that control other endocrine organs.</p></html>
+
+Pancreas is in digestive organs
+
+START RESP ORGANS
+
+LungsStart
+<html><p>The <b>lungs</b> are respiratory organs located on either sides of the chest. They are spongy, and inflate and deflate with the help of the diaphragm. Air coming in from the bronchi gooes through the bronchioles and into air sacs called alveoli. Alveoli is where gas exchange happens; oxygen is diffused into the blood, and carbon dioxide is diffused from the blood to the alveoli. If the alveoli are infected, they can become inflamed and cause pneumonia.</p></html>
+
+BronchiStart
+<html><p>The <b>bronchi</b> are respiratory organs located in between the upper part of the lungs, connected to the trachea. These organs let air flow through the trachea to the lungs. Muscles in the bronchi help regulate airflow. Bronchtis can happen when irritants are inhaled, which can cause excess mucus production, inflammation, and persistent coughing.</p></html>
+
+TracheaStart
+<html><p>The <b>trachea</b> is a respiratory organ located above the lungs, in the neck. It connects the larynx to the bronchi, providing a passageway for air. It is supported by cartilage, and has a layer of mucus that traps particles. These particles are coughed up along with the mucus as phlegm.</p></html>
+
+DiaphragmStart
+<html><p>The <b>diaphragm</b> is a muscle that is located below the lungs, and divides the thoracic cavity from the abdominal cavity. It tightly seals the thoracic cavity. It contracts and relaxes, which changes the air pressure between atmosphere and thoracic cavity. This is how exhalation or inhalation occurs.</p></html>
+
+LarynxStart
+<html><p>The <b>larynx</b> is a respiratory organ that is located above the trachea. It is the "voicebox"; it contains vocal cords that vibrate to create sounds. The vocal cords are highly elastic tubes, and are usually longer and thicker in males. Laryngitis is an inflammation of the larynx.</p></html>
+
+
+START DIG ORGANS
+
+StomachStart
+<html><p>The <b>stomach</b> is a digestive organs located on the left side of your upper abdomen. The stomach's main functions are to recieve food from the esophagus and store it. The stomach is full of hydrochloric acid. This acid activates pepsiongen into the enzyme pepsin, which digests proteins. A mucus layer on the inside of the stomach protects against the acid. Secretions anc food combine to create chyme, which exits in small amounts into the small intestine.</p></html>
+
+SmallIntestineStart
+<html><p>The <b>small intestine</b> is a digestive organ that is located below your stomach. The small intestine's main functions are to digest food through peristalsis, which are wave-like contractions that move and break down food, and chemical digestion. Villi inside the small intestine absorb different nutrients. Lacteals in the villi absorb lipids, while capillaries absorb sugars and amino acids.</p></html>
+
+LargeIntestineStart
+<html><p>The <b>large intestine</b> is a digestive organ that surrounds your small intestine, and it slightly larger than the small intestine. The large intestine takes chyme from the small intestine and absorbs water from it. Bacteria growing on this undigested material produce vitamins B & K. The waste is called feces, and is stored in the rectum until it is expelled from the anus.</p></html>
+
+LiverStart
+<html><p>The <b>liver</b> is a digestive organ located in the upper right portion of your abdomen. The liver's main functions are creating bile and storing glycogen. Bile is a fluid that helps break down lipids. It stores glycogen, which can be used for energy when glucagon converts glycogen to glucose. The liver also aids in filtering blood.</p></html>
+
+PancreasStart
+<html><p>The <b>pancreas</b> is a digestive and endocrine organ and is located behind the stomach, on the back of the abdomen. The pancreas creates sodium bicarbonate, which is a basic fluid that neutralizes stomach acids entering the small intestine. It produces pancreatic enzymes and juice that break down each type of biomolecule. It also produces the hormones glucagon, which raises blood sugar, and insulin, which lowers blood sugar.</p></html>
+
+
+START REPRO ORGANS (REMEMBER YOU NEED 10 ORGANS HERE, 5:Male, 5:female)
+
+PenisStart
+<html><p>The <b>penis</b> is a muscular organ that fills with blood when it becomes erect. It is the main male sex organ and is responsible for delivering the male's gametes into the female's body through a series of muscle contractions. The end result is ejaculation, when the semen, which contains sperm is shot out through the penis into the woman's vagina.</p></html>
+
+TestesStart
+<html><p>The <b>testes</b> are the secondary male sex organs which are responsible for creating the male gamete, the sperm cell. The testes descend into the scrotum shortly after birth and begin producing sperm after puberty begins in a male, during the teen years. The testes also are usually situated slightly away from the body, because the prime temperature for sperm creation is 1-2 degrees Celsius below the body's average temperature. They produce testosterone, the male sex hormone.</p></html>
+
+ProstateStart
+<html><p>The <b>prostate</b> is an accessory organ of the male reproductive system. It is responsible for creating some of the other mixtures in semen, such as the mixture that turns the semen alkaline. This mixture protects the delicate sperm from the vagina's acidic environment, so that they can reach the egg.</p></html>
+
+ScrotumStart
+<html><p>The <b>scrotum</b> is the skin sack that holds the testes, which descend into it shortly after birth. It's main job is to keep the testes at the correct distance from the body to keep the perfect environment for sperm creation. It descends in the heat and ascends in the cold to maintain homeostasis.</p></html>
+
+VasDeferensStart
+<html><p>The <b>vas deferens</b> are tubes that are crucial to the function of the reproductive systen. They guide the sperm from the testes, past the prostate and other secondary organs which add mixtures to the sperm, turning it into semen, and delivers it to the woman's body through the urethra in the penis.</p></html>
+
+FallopianTubesStart
+<html><p>The <b>fallopian tubes</b> guide the egg. After it leaves the ovary, it guides the egg to the uterus. If a fertilized egg attempts to implant itself into the Fallopian tubes instead of the uterus, it can create a life threatening disease called an ectopic pregnancy, and can potentially destroy the woman's reproductive system.</p></html>
+
+OvariesStart
+<html><p>The <b>ovaries</b> are very similar to the testes in the male. They release mature, unfertilized eggs into the woman's fallopian tubes every 28 days, starting at puberty and ending after menopause. They produce estrogen and progesterone, the female sex hormones.</p></html>
+
+VaginaStart
+<html><p>The <b>vagina</b> is a thick muscle that the penis penetrates during sexual intercourse. When the penis ejaculates, the alkaline quality of the semen protects the sperm from the acidic environment of the vagina.</p></html>
+
+CervixStart
+<html><p>The <b>cervix</b> is a thick ring of muscle that connects the vagina and the uterus. It begins to expand during labor, and the baby is forced through the cervix, out of the vagina, and into the world.</p></html>
+
+UterusStart
+<html><p>The <b>uterus</b> is one of the most important organs in the female reproductive system. The fertilized egg implants itself in the thick blood-lined layer of the uterus, and leaves it 9 months later to be born. If an unfertilized egg attempts to implant itself into the uterus, the female body flushes it out along with the blood lining in a 2-3 day cycle called a "period".</p></html>
+
+
+START URIN ORGANS
+
+SweatGlandsStart
+<html><p>The <b>sweat glands</b> are located all over the skin. When the body is over its average temperature of 98.6 degrees Fahrenheit, the sweat glands kick in and release water and salt in an attempt to cool down the body and bring it back to its normal temperature.</p></html>
+
+KidneysStart
+<html><p>The <b>kidneys</b> are organs that clean the blood. They do this important task through three functions, filtration, secretion, and reabsorption, in which they take all the nutrients and waste off the blood, get rid of the waste and excess nutrients and reintroduce the nutrients to the blood cells.</p></html>
+
+UretersStart
+<html><p>The <b>ureters</b> are tubes that connect the kidneys to the bladder. They carry the urine from the kidneys to the bladder, where it is stored until it is released through the urethra.</p></html>
+
+BladderStart
+<html><p>The <b>urinary bladder</b> is a sac that holds the urine until it is released through the urethra. It can swell to many times its original size when completely full of urine.</p></html>
+
+RenalArteryVeinStart
+<html><p>The <b>renal artery</b> carries the blood from the heart directly to the kidneys to be cleaned. The <b>renal vein</b> carries the now filtered blood from the kidneys back to the heart.</p></html>
+
+
+START CIRC ORGANS
+
+HeartStart
+<html><p>The <b>heart</b> is the main organ of the circulatory system. It is a musuclar organ that pumps blood throughout the circulatory system. It is made up of four chambers: right atrium, right ventricle, left atrium, and left ventricle. Blood from the upper body enters the heart through the superior vena cava, and blood from the lower part enters through the inferior vena cava. This blood is deoxygenated, and enters into the right atrium. From there it goes through the tricuspid valve to the right ventricle. It exits through the pulmonic valve and enters the pulmonic artery, which takes it to the lungs to get oxygenated. The oxygenated blood comes back to the left atrium through the pulmonary vein, from where it goes through the biscuspid(mitral) valve to the left ventricle, then the aortic valve to the aorta.</p></html>
+
+ArteriesStart
+<html><p>The <b>arteries</b> are the main highways of the circulatory system. They take oxygenated blood from the heart to different parts of the body. They have strong linings to withstand the powerful pumping of the heart. This pressure can cause the tissue to rip inside, where cholesterol can build up. The buildup can lead to plaque and atherosclerosis, and can cause heart attacks and strokes.</p></html>
+
+VeinsStart
+<html><p>The <b>veins</b> are the blood vessels that deliver the deoxygenated blood back to the heart. They are powered by the contractions of muscles around them, and move the blood back at a somewhat slower pace than the arteries.</p></html>
+
+CapillariesStart
+<html><p>The <b>capillaries</b> are the smallest blood vessels of the body. They connect the arteries and veins, and since they are so thin, oxygen and other nutrients can pass through them. They are responsible for the 1 on 1 delivery of oxygen and nutrients to every single cell in the body, as well as the draining of waste and carbon dioxide. Since they are so small, the blood cells have to pass single file through each capillary.</p></html>
+
+AortaStart
+<html><p>The <b>aorta</b> is the biggest artery in the circulatory system. It runs trhough the chest and abdomen, and many smaller arteries come off of it. The aorta divides into two arteries at the legs. It distributes newly oxygenated blood from the heart to the rest of the body.</p></html>
